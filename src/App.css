@@ -1,0 +1,26 @@
+body{
+  background-color: aquamarine;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+ 
+}
+table{
+  width: 90%;
+  margin: 50px;
+  border: 2px solid white;
+  
+  background-color: aliceblue;
+}
+th{
+  border: 2px solid snow;
+}
+h2{
+  text-align: center;
+}
